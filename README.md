@@ -6,6 +6,7 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 
 # Resources
 [Citi Bike Data](https://ride.citibikenyc.com/system-data)
+
 [Tableau](https://public.tableau.com/en-us/s/)
 
 # Visualizations

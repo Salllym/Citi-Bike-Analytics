@@ -10,3 +10,4 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 [Tableau](https://public.tableau.com/en-us/s/)
 
 # Visualizations
+https://public.tableau.com/app/profile/sally8437/viz/CitiBikeAnalytics_16566437891540/CitiBikeAnalytics-JerseyCityNJ- 

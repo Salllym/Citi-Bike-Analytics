@@ -9,6 +9,9 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 
 [Tableau](https://public.tableau.com/en-us/s/)
 
+# Data Cleaning
+Before doing any visualizations, Python and the Pandas library was used to clean the data. In a Jupyter Notebook, the monthly data files were concatenated into one. 
+
 # Visualizations
 https://public.tableau.com/app/profile/sally8437/viz/CitiBikeAnalytics_16566437891540/CitiBikeAnalytics-JerseyCityNJ- 
 

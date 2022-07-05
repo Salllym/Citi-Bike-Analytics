@@ -20,11 +20,11 @@ The most popular/ top 10 start and end stations can mostly be found in New Jerse
 ![topstart](Images/top10start.PNG)
 ![topend](Images/top10end.PNG)
 
-The bottom 10 start stations are more spread out throughout 3 different zip codes, while the bottom 10 end stations are spread out throughout several zip codes because these zip codes are very close to each other and their roads have bike lines, which allows riders to easily bike from one zip code to another.
+The bottom 10 start stations are more spread out throughout 3 different zip codes, while the bottom 10 end stations are spread out throughout several zip codes because these zip codes are very close to each other and their roads have bike lanes, which allows riders to easily bike from one zip code to another.
 ![bottomstart](Images/bottom10start.PNG)
 ![bottomend](Images/bottom10end.PNG)
 
-In addition, people born between 1980 and 2000 represent the highest number of riders. However, people born after 1990 have a higher average trip duration. This can mean that younger riders enjoy riding the Citi bike; they have more energy to ride it for a longer period, and use it to help them to get to places they need to go, such as going to work/ school, grocery shopping, and spending time with family and friends. 
+In addition, people born between 1980 and 2000 represent the highest number of riders. However, people born after 1990 have a higher average trip duration. This can mean that younger riders enjoy riding the Citi bike more; they have more energy to ride it for a longer period, and use it to help them to get to places they need to go, such as going to work/ school, grocery shopping, and spending time with family and friends. 
 ![graph2](Images/graph2.PNG)
 ![graph3](Images/graph3.PNG)
 
